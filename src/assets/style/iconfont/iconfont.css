@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3834313 */
+  src: url('//at.alicdn.com/t/c/font_3834313_4u7pvadg5n9.woff2?t=1672902521470') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3834313_4u7pvadg5n9.woff?t=1672902521470') format('woff'),
+       url('//at.alicdn.com/t/c/font_3834313_4u7pvadg5n9.ttf?t=1672902521470') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-glasses:before {
+  content: "\e60c";
+}
+
+.icon-makeup:before {
+  content: "\e673";
+}
+
+.icon-face-shape3:before {
+  content: "\e627";
+}
+
+.icon-face-shape1:before {
+  content: "\e69f";
+}
+
+.icon-face-shape2:before {
+  content: "\e648";
+}
+
+.icon-expression:before {
+  content: "\e600";
+}
+
+.icon-hairstyle:before {
+  content: "\e60e";
+}
+
+.icon-scene:before {
+  content: "\e605";
+}
+
+.icon-dress:before {
+  content: "\e60d";
+}
+
+.icon-action:before {
+  content: "\e654";
+}
+
+.icon-face-shape:before {
+  content: "\e634";
+}
